@@ -4,11 +4,9 @@ Guessing Number Game.
 
   
 ### ScreenShots
-![s1](https://user-images.githubusercontent.com/25553339/63640754-15033e80-c6c2-11e9-9ccb-d83aa7b53d82.png)
+![ss1](https://user-images.githubusercontent.com/25553339/63640831-c7d39c80-c6c2-11e9-9009-8fd2d198a319.JPG)
 
-![s2](https://user-images.githubusercontent.com/25553339/63640753-15033e80-c6c2-11e9-9260-4b49c0d0c2cf.png)
-
-
+![ss2](https://user-images.githubusercontent.com/25553339/63640832-c86c3300-c6c2-11e9-9864-2117f7006ff0.JPG)
 
 
 
@@ -20,16 +18,15 @@ Guessing Number Game.
 
 
 
-![s3](https://user-images.githubusercontent.com/25553339/63640756-159bd500-c6c2-11e9-82f8-1421bd843510.png)
+![ss3](https://user-images.githubusercontent.com/25553339/63640833-c86c3300-c6c2-11e9-9ceb-6ba6426e350b.JPG)
 
-![s4](https://user-images.githubusercontent.com/25553339/63640758-159bd500-c6c2-11e9-923e-03c5e0034caa.png)
-
+![ss4](https://user-images.githubusercontent.com/25553339/63640834-c86c3300-c6c2-11e9-8b78-fc2bc794db20.JPG)
 
 <br>
 
-![s5](https://user-images.githubusercontent.com/25553339/63640759-159bd500-c6c2-11e9-8532-569dce5c820c.png)
+![ss5](https://user-images.githubusercontent.com/25553339/63640835-c904c980-c6c2-11e9-88b9-babcb5946881.JPG)
 
-![s6](https://user-images.githubusercontent.com/25553339/63640752-15033e80-c6c2-11e9-8485-60f7a38fe88b.png)
+![ss6](https://user-images.githubusercontent.com/25553339/63640836-c904c980-c6c2-11e9-91eb-d311136f9c73.JPG)
 
 # Show some ❤️ and star the repo to support the project
 
