@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:title="@string/app_name"
+        app:titleMarginTop="13sp"
+        />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="100sp"
+    android:text="Rules for Game"
+   android:textSize="30sp"
+    android:gravity="center"
+    android:textStyle="bold"
+    android:textColor="#D500F9"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1st. "
+        android:textStyle="bold"
+        android:textSize="20sp"
+            android:id="@+id/no1"
+            android:textColor="#3c3c3c"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="If you gess greater than 100 or less then 1. Return Will be Out Of Bound"
+            android:textSize="20sp"
+            android:layout_toRightOf="@+id/no1"
+            android:textColor="#3c3c3c"
+            android:id="@+id/as"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2nd. "
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:id="@+id/no2"
+                android:textColor="#3c3c3c"
+                android:layout_below="@+id/as"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="If your first gess under 10, You will get WARM! ,Otherwise You will get COLD!"
+                android:textSize="20sp"
+                android:layout_toRightOf="@+id/no2"
+                android:textColor="#3c3c3c"
+                android:id="@+id/ass"
+                android:layout_below="@+id/as"/>
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3rd. "
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:id="@+id/no3"
+            android:textColor="#3c3c3c"
+            android:layout_below="@+id/ass"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="On other gess:
+#  If your number closer to previous one then you will get NEAR!
+#  If your number away from previous one then you will get COLDER!"
+                android:textSize="20sp"
+                android:layout_toRightOf="@+id/no3"
+                android:textColor="#3c3c3c"
+                android:id="@+id/asss"
+                android:layout_below="@+id/ass"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:text="GO"
+                android:background="#D500F9"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:id="@+id/goButton"
+                android:layout_below="@+id/asss"/>
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
